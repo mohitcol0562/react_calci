@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 63px;
+}
+
+.welcome-message{
+  font-size: 1.7rem;
+  font-family: poppins;
+  font-weight: 600;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.app_font_settings{
+  font-size: 1.4rem;
+  font-weight: 500;
+  font-family: popins;
+}
